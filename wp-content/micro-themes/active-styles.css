@@ -1,0 +1,64 @@
+/*  MICROTHEMER STYLES  */
+
+
+/*= Menu principal ============ */
+
+/** Menu principal >> menu funerals **/
+#menu-item-27 > .menu-link {
+	font-size: 20px !important;
+	position: relative !important;
+	right: 250px !important;
+}
+
+/** Menu principal >> menu monuments **/
+#menu-item-28 > .menu-link {
+	font-size: 20px !important;
+	position: relative !important;
+	right: 150px !important;
+}
+
+/** Menu principal >> menu funeral insurance **/
+#menu-item-29 > .menu-link {
+	font-size: 20px !important;
+	position: relative !important;
+	right: 50px !important;
+}
+
+/** Menu principal >> menu death notices **/
+#menu-item-30 > .menu-link {
+	font-size: 20px !important;
+}
+
+
+/*= Conteúdo ================= */
+
+/** Conteúdo >> imagem mulher orando **/
+#post-7 .wp-image-65 {
+	position: fixed !important;
+	top: 90px !important;
+	bottom: 0 !important;
+	left: 1150px !important;
+}
+
+/** Conteúdo >> texto descricao **/
+#post-7 .uagb-ifb-desc {
+	font-family: "Times New Roman" !important;
+	font-size: 15.9px !important;
+	font-weight: 700 !important;
+	text-align: justify !important;
+	word-spacing: 0.5px !important;
+	letter-spacing: 0 !important;
+	width: 455px !important;
+	position: relative !important;
+	top: 30px !important;
+	left: 30px !important;
+}
+
+/** Conteúdo >> texto titulo **/
+#post-7 .uagb-ifb-title {
+	font-size: 57px !important;
+	position: relative !important;
+	bottom: 40px !important;
+	left: 20px !important;
+}
+
